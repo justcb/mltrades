@@ -56,8 +56,7 @@ After fitting and testing the dataset and creating a classification report for t
 
 ![](./img/4.png)
 
-
-_.  
+The plot has been saved as a PNG file.
 
 # Collaborators 
 
