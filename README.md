@@ -58,6 +58,10 @@ After fitting and testing the dataset and creating a classification report for t
 
 The plot has been saved as a PNG file.
 
+## Evaluation
+
+As can be seen with the above classification reports, better results are obtained when additional data is provided to the models.  Were I to continue this project, I would test LogisticRegression and DTC with additional data slices.  Also, it must be noted that the dataset itself is limited and that hinders the ability of the model to adequately predict appropriate buy and sell signals.
+
 # Collaborators 
 
 This project is a part of the Rice University FinTech bootcamp.
